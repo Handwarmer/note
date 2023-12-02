@@ -73,7 +73,7 @@
 
 ### 林肯纪念堂
 又一个电影常客！
-TODO:添加图片
+![1](https://thumbnails-photos.amazon.com/v1/thumbnail/jIY919WnSGWtP8pZDfl2qw?viewBox=728%2C970&ownerId=A199H2MSIUK7DB&groupShareToken=D5BsvrlFTXOFETpAEc4z5A.DJAwCB6QXnPyhW0rAbGxct)
 
 ### 小罗斯福纪念堂
 这位的记忆点有：
@@ -120,3 +120,6 @@ TODO:添加图片
 
 最后...超市里居然可以用支付宝结账！好像还真是第一次在美国见到  
 ![https://www.amazon.com/photos/shared/QGePuqEQTAe_TEydWrcTIw.N1RCGD5JBx0NYzuExNBkaq/gallery/npv6zdTzSxywjxq4jrPTuA](https://thumbnails-photos.amazon.com/v1/thumbnail/A5qaYaqLTY-olxBgg9yYLw?viewBox=730%2C970&ownerId=A199H2MSIUK7DB&groupShareToken=QGePuqEQTAe_TEydWrcTIw.N1RCGD5JBx0NYzuExNBkaq)
+
+## 附录
+更多图片：https://www.amazon.com/photos/shared/D5BsvrlFTXOFETpAEc4z5A.DJAwCB6QXnPyhW0rAbGxct
