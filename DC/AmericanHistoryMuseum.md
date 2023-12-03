@@ -290,10 +290,7 @@
 ![1](https://thumbnails-photos.amazon.com/v1/thumbnail/j6xyP-ndQqKCMdz7LRURxQ?viewBox=730%2C970&ownerId=A199H2MSIUK7DB&groupShareToken=pWPOuOORSkm5FNWDrduCLg.KTDNl88zG-ipBOY_ZO9bNm)   
 
 ## 其他
-整个看下来，可能会有感觉"怎么几乎都没有关于印第安人和非裔的内容？"  
-老实说，几乎每个展区中都有相当大的篇幅与这两者相关。  
-但我总是会不知不觉的去多看一看亚裔相关的部分，而对诸如墨西哥/印第安/非裔就一扫而过。  
-拍照片更是如此，只要是带中国文化的几乎肯定会拍，别的就除非特别引人注目才会入镜。
+还有别的区域，比如讲车船这种交通工具的发展的，可是实在缺少记忆点。
 
 ## 附录
 更多图片：https://www.amazon.com/photos/shared/pWPOuOORSkm5FNWDrduCLg.KTDNl88zG-ipBOY_ZO9bNm
