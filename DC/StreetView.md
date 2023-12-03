@@ -16,8 +16,8 @@
 街上的史密森博物馆地图
 ![https://www.amazon.com/photos/shared/AraLzU9VQ2OFYOM1K_Sg8A.V4siBcCvCW6c2_mbAp3qBr/gallery/5Xj9NW_7SR-nXlWBW4n-Bg](https://thumbnails-photos.amazon.com/v1/thumbnail/5Xj9NW_7SR-nXlWBW4n-Bg?viewBox=1280%2C964&ownerId=A199H2MSIUK7DB&groupShareToken=AraLzU9VQ2OFYOM1K_Sg8A.V4siBcCvCW6c2_mbAp3qBr)
 
-姑且是去过了以下博物馆：
-- [美国历史馆](https://github.com/Handwarmer/note/blob/main/DC/AmericanHistoryMuseum/AmericanHistoryMuseum.md)
+目前去过了以下博物馆：
+- [美国历史馆](https://github.com/Handwarmer/note/blob/master/DC/AmericanHistoryMuseum.md)
 - 自然科学馆（待添加）
 - 航空航天馆（待添加）
 
@@ -92,11 +92,11 @@
 ![https://www.amazon.com/photos/shared/DSzlWI3HRCenJbN90Auk3g._MGeXmbkQkAaSmmr4twmZa/gallery/IlrFBKSRS-moIWl-61DZ4Q?pageIndex=0](https://thumbnails-photos.amazon.com/v1/thumbnail/IlrFBKSRS-moIWl-61DZ4Q?viewBox=1279%2C963&ownerId=A199H2MSIUK7DB&groupShareToken=DSzlWI3HRCenJbN90Auk3g._MGeXmbkQkAaSmmr4twmZa)
 
 ### 托马斯杰斐逊纪念堂
-说实话这位总感觉没什么记忆点，第二位总统，就像第二个登月的人一样透明  
+说实话这位总感觉没什么记忆点。第二位总统，就像第二个登月的人一样缺乏存在感  
 ![https://www.amazon.com/photos/shared/QGePuqEQTAe_TEydWrcTIw.N1RCGD5JBx0NYzuExNBkaq/gallery/H67J1XqbSXqDYZ1rmuBXgg](https://thumbnails-photos.amazon.com/v1/thumbnail/H67J1XqbSXqDYZ1rmuBXgg?viewBox=730%2C970&ownerId=A199H2MSIUK7DB&groupShareToken=QGePuqEQTAe_TEydWrcTIw.N1RCGD5JBx0NYzuExNBkaq)
 
 ### 尤里西斯格兰特纪念园
-好像但凡当过将军的雕塑都要是骑马的。记忆点应该算是赢了南北战争吧。  
+好像但凡当过将军的雕塑都要是骑马的。记忆点应该算是赢了南北战争吧，之后也顺理成章当上了总统。  
 ![https://www.amazon.com/photos/shared/QGePuqEQTAe_TEydWrcTIw.N1RCGD5JBx0NYzuExNBkaq/gallery/H67J1XqbSXqDYZ1rmuBXgg](https://thumbnails-photos.amazon.com/v1/thumbnail/yORczY4RQk6qJJ4RZuy6_A?viewBox=1279%2C963&ownerId=A199H2MSIUK7DB&groupShareToken=QGePuqEQTAe_TEydWrcTIw.N1RCGD5JBx0NYzuExNBkaq)
 
 不过这位的位置真是绝佳，算得上前有照（一个池子）后有靠（国会山）。  
@@ -115,7 +115,7 @@
 车牌上的END TAXATION WITHOUT REPRESENTATION，详见[这里](https://github.com/Handwarmer/note/blob/master/DC/AmericanHistoryMuseum.md#%E6%8A%95%E7%A5%A8)  
 ![https://www.amazon.com/photos/shared/QGePuqEQTAe_TEydWrcTIw.N1RCGD5JBx0NYzuExNBkaq/gallery/npv6zdTzSxywjxq4jrPTuA](https://thumbnails-photos.amazon.com/v1/thumbnail/npv6zdTzSxywjxq4jrPTuA?viewBox=1279%2C963&ownerId=A199H2MSIUK7DB&groupShareToken=QGePuqEQTAe_TEydWrcTIw.N1RCGD5JBx0NYzuExNBkaq)
 
-路边一角呼吁巴以停火的贴纸，前两天挺巴和挺以派刚轮番在DC游行过。  
+路灯底部呼吁巴以停火的贴纸，前两天挺巴和挺以派刚轮番在DC游行过。  
 ![https://www.amazon.com/photos/shared/QGePuqEQTAe_TEydWrcTIw.N1RCGD5JBx0NYzuExNBkaq/gallery/npv6zdTzSxywjxq4jrPTuA](https://thumbnails-photos.amazon.com/v1/thumbnail/MGmbY63DQCSzDHJVgoO12Q?viewBox=730%2C970&ownerId=A199H2MSIUK7DB&groupShareToken=QGePuqEQTAe_TEydWrcTIw.N1RCGD5JBx0NYzuExNBkaq)
 
 最后...超市里居然可以用支付宝结账！好像还真是第一次在美国见到  
