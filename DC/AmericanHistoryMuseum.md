@@ -5,10 +5,14 @@
 
 而这里的多个展厅间没有明显的关联，每个展厅有自己的主题，然后围绕主题先把历史讲一遍（毕竟也不长），再配上对应的藏品。  
 
-另外...我感觉这个博物馆相当部分的内容，在致力于帮参观者塑造国家认同。  
+实际上我感觉从其它博物馆上，也能看出些类似的，中美思路上的不同。  
+中国博物馆的目的往往是为了让你看到展品。  
+美国博物馆的目的往往是为了讲一个故事，穿插些与故事相关的展品。
+
+这个博物馆的相当一部分内容，在致力于帮参观者塑造国家认同。  
 一个没有主体民族，没有共同信仰，也没有太漫长历史的国家，想塑造这种认同还是颇需要些功夫的。  
 ## 第一层的展厅
-实际上早就记不清哪个展厅是在哪层啦...就按记忆中的顺序随便排一排。  
+实际上早就记不清哪个展厅是在哪层了...就按记忆中的顺序随便排一排。  
 
 从博物馆正门进来，大厅一侧的墙上，就是关于疫情期间反亚裔歧视的内容。  
 作为亚裔，算是有那么一点感到被重视吧！  
@@ -20,19 +24,21 @@
 这面旗子是1812年战争中，美国人在巴尔的摩的McHenry堡上升起的，象征着他们在英国军队的进攻下守住了堡垒。  
 ![1](https://thumbnails-photos.amazon.com/v1/thumbnail/ZDty-LY9TAebQVvvINKYSw?viewBox=1280%2C964&ownerId=A199H2MSIUK7DB&groupShareToken=pWPOuOORSkm5FNWDrduCLg.KTDNl88zG-ipBOY_ZO9bNm)  
 
-这个展厅里也在循环播放《星条旗》，这首国歌是Francis Scott Key在看到McHenry堡的战斗后填词而成的。  
+这个展厅里也在循环播放国歌《星条旗》，是Francis Scott Key在看到McHenry堡的战斗后填词而成的（曲是在那之前就有了）。  
 常有人说美国国歌是《星条旗永不落》，但实际上那是另一首完全不同的歌。  
 关于《星条旗》的介绍。  
 ![1](https://thumbnails-photos.amazon.com/v1/thumbnail/6iGsUdgRTjmEK1_59oEItg?viewBox=1280%2C964&ownerId=A199H2MSIUK7DB&groupShareToken=pWPOuOORSkm5FNWDrduCLg.KTDNl88zG-ipBOY_ZO9bNm)  
 
 在最核心的位置放这么一个展厅，一上来就给人一种...不太像是历史博物馆，而是爱国主义教育基地的感觉。  
-（这倒跟国内某些历史景点--尤其是与党史相关那些--的做法有些不谋而合，看来思想教育到哪里都要抓呀！）
+（这倒跟国内某些历史景点——尤其是与建国史，党史相关的那些——的做法有些不谋而合，看来思想教育到哪里都要抓呀！）
 
 ### 餐桌和食物
 之后每个展厅的主题就开始天马行空了，不过总体来说大概可算是在讲人们生活的衣食住行。  
 这个展厅的主题，是"食"。  
 
-作为一个移民为主的国家，哪个展厅几乎都绕不开去讲一讲各种移民带来的多元文化（要凝聚国家认同嘛）。   
+作为一个移民为主的国家，哪个展厅几乎都绕不开去讲一讲各种移民带来的多元文化。  
+我在看的过程中，下意识一直在关注与中国相关的部分。对于印第安/非裔/墨西哥相关的就缺少兴趣，尽管它们往往占了相当大的篇幅（尤其是前两者）。  
+不知道其他族裔的游客是否也是如此。  
 ![1](https://thumbnails-photos.amazon.com/v1/thumbnail/g0yGLDGXQdeQENwgZskxnw?viewBox=1280%2C964&ownerId=A199H2MSIUK7DB&groupShareToken=pWPOuOORSkm5FNWDrduCLg.KTDNl88zG-ipBOY_ZO9bNm)  
 
 快餐文化。  
@@ -58,13 +64,13 @@
 此时的美国应该还算是个农业国家，主要的商业活动是往欧洲销售原材料，然后带回工业品。  
 ![1](https://thumbnails-photos.amazon.com/v1/thumbnail/qrq2GmRtQyex_NuIe3HcUA?viewBox=1280%2C964&ownerId=A199H2MSIUK7DB&groupShareToken=pWPOuOORSkm5FNWDrduCLg.KTDNl88zG-ipBOY_ZO9bNm)  
 
-其中讲到与中国贸易的部分。  
+其中讲到与中国贸易的部分。主要是从中国进口商品。  
 ![1](https://thumbnails-photos.amazon.com/v1/thumbnail/GajKB6riRc6V-8CyhUpwHw?viewBox=730%2C970&ownerId=A199H2MSIUK7DB&groupShareToken=pWPOuOORSkm5FNWDrduCLg.KTDNl88zG-ipBOY_ZO9bNm)  
 ![1](https://thumbnails-photos.amazon.com/v1/thumbnail/Mz3ge0W-SYicX2L5UYxFxA?viewBox=730%2C970&ownerId=A199H2MSIUK7DB&groupShareToken=pWPOuOORSkm5FNWDrduCLg.KTDNl88zG-ipBOY_ZO9bNm)  
 
 #### 公司时代
 原始积累的差不多，尤其是在南北战争完全解放了黑奴劳动力让他们进厂之后，大的公司开始出现了。  
-随之而来的还有经济危机，劳资冲突。  
+随之而来的还有经济危机，劳资冲突等问题。  
 ![1](https://thumbnails-photos.amazon.com/v1/thumbnail/fETCm7m1Ri-VrtrRRD82xA?viewBox=1280%2C964&ownerId=A199H2MSIUK7DB&groupShareToken=pWPOuOORSkm5FNWDrduCLg.KTDNl88zG-ipBOY_ZO9bNm)  
 
 比起上一个时代大量从中国进口手工业品，现在开始变成往中国出口工业品了。  
@@ -79,9 +85,6 @@
 图中是爱迪生发明的电灯和娃娃，贝尔发明的电话。  
 ![1](https://thumbnails-photos.amazon.com/v1/thumbnail/GjmO1-mFREGbRbOjLsyjpg?viewBox=730%2C970&ownerId=A199H2MSIUK7DB&groupShareToken=pWPOuOORSkm5FNWDrduCLg.KTDNl88zG-ipBOY_ZO9bNm)
 
-巨大的收入差距也引发了阶层对立。  
-![1](https://thumbnails-photos.amazon.com/v1/thumbnail/MyyogNdfSX2zmXQn1WmXMw?viewBox=730%2C970&ownerId=A199H2MSIUK7DB&groupShareToken=pWPOuOORSkm5FNWDrduCLg.KTDNl88zG-ipBOY_ZO9bNm)
-
 #### 消费者时代
 这应该是整个国家无论生产力还是消费能力都达到顶峰的时代，人民生活水平大幅提升。  
 ![1](https://thumbnails-photos.amazon.com/v1/thumbnail/Bg1Gvc-0TL2NmzOs1m-wRg?viewBox=1280%2C964&ownerId=A199H2MSIUK7DB&groupShareToken=pWPOuOORSkm5FNWDrduCLg.KTDNl88zG-ipBOY_ZO9bNm)
@@ -90,12 +93,15 @@
 进入全球经济时代，这里主要讲的是美国公司如何与政府在环保和金融监管上的限制做博弈。  
 ![1](https://thumbnails-photos.amazon.com/v1/thumbnail/XeR2H1WmRTul_TsQ6Murig?viewBox=1280%2C964&ownerId=A199H2MSIUK7DB&groupShareToken=pWPOuOORSkm5FNWDrduCLg.KTDNl88zG-ipBOY_ZO9bNm)  
 
-这个巨大娃娃屋实际上是在展厅之外，但也算与之密切相关吧！  
+不同阶层间的收入变化。  
+![1](https://thumbnails-photos.amazon.com/v1/thumbnail/MyyogNdfSX2zmXQn1WmXMw?viewBox=730%2C970&ownerId=A199H2MSIUK7DB&groupShareToken=pWPOuOORSkm5FNWDrduCLg.KTDNl88zG-ipBOY_ZO9bNm)
+
+这个巨大娃娃屋实际上是在展厅之外，但也算与之相关吧！  
 ![1](https://thumbnails-photos.amazon.com/v1/thumbnail/JG4iIdwPTKO4wc9qCBv6PQ?viewBox=1280%2C964&ownerId=A199H2MSIUK7DB&groupShareToken=pWPOuOORSkm5FNWDrduCLg.KTDNl88zG-ipBOY_ZO9bNm)  
 
 ## 第二层的展厅
 第二层更是满眼的爱国主义教育！  
-一上来就是肌肉男华盛顿，以及"这个我们一同建立的国家"。  
+一上来就是神化造型的华盛顿，以及"这个我们一同建立的国家"。  
 ![1](https://thumbnails-photos.amazon.com/v1/thumbnail/V-oc123MTL68PbX6EjNRxA?viewBox=1280%2C964&ownerId=A199H2MSIUK7DB&groupShareToken=pWPOuOORSkm5FNWDrduCLg.KTDNl88zG-ipBOY_ZO9bNm)  
 
 ### 民主
@@ -119,17 +125,16 @@
 ![1](https://thumbnails-photos.amazon.com/v1/thumbnail/owiZomcaTammLHbE_gfYTQ?viewBox=1280%2C964&ownerId=A199H2MSIUK7DB&groupShareToken=pWPOuOORSkm5FNWDrduCLg.KTDNl88zG-ipBOY_ZO9bNm)  
 
 #### 投票
-这个展厅肯定绕不开的一环，其中花了相当的篇幅讲了妇女是如何获得投票权的。  
-感觉对这一块历史相当注重，雕像放进了国会山，也做进了《荒野大镖客2》这样的游戏里。  
+这个展厅肯定绕不开的一环。其中花了相当的篇幅讲了妇女是如何获得投票权的。  
+感觉美国人对妇女投票权这一块历史相当注重，雕像放进了国会山，也做进了《荒野大镖客2》这样的游戏里。  
 （然后有投票权后就搞出了禁酒令这种事）
 
 左 - 与投票权相关的一系列修正案。  
-中 - 20世纪初妇女争取投票权的内容。  
+中 - 二十世纪初妇女争取投票权的内容。  
 ![1](https://thumbnails-photos.amazon.com/v1/thumbnail/t7XqgoRJQB-qhFXsvtEakg?viewBox=1280%2C964&ownerId=A199H2MSIUK7DB&groupShareToken=pWPOuOORSkm5FNWDrduCLg.KTDNl88zG-ipBOY_ZO9bNm)
 
 鼓励人投票的种种标语  
 ![1](https://thumbnails-photos.amazon.com/v1/thumbnail/8MejpsgrRpODN8To2KTkJQ?viewBox=1280%2C964&ownerId=A199H2MSIUK7DB&groupShareToken=pWPOuOORSkm5FNWDrduCLg.KTDNl88zG-ipBOY_ZO9bNm)  
-  
 
 20世纪中叶的投票表格。  
 ![1](https://thumbnails-photos.amazon.com/v1/thumbnail/Xqhzu2NCQP6hoeu3WYhO6A?viewBox=1280%2C964&ownerId=A199H2MSIUK7DB&groupShareToken=pWPOuOORSkm5FNWDrduCLg.KTDNl88zG-ipBOY_ZO9bNm)  
@@ -154,10 +159,10 @@
 ### 我们如何变成我们
 个人认为是整个博物馆有趣的展厅，感觉它真的更应该是"爱国主义教育馆"的一部分（如果有的话）。  
 原文是HOW DID WE BECOME **US**?  
-大概是在说，（来自世界各地的）我们如何变成（美国的）我们。  
+大概是在说，（来自世界各地的）我们如何变成（美国这个国家的）我们。  
 整个展厅都在不断用不同的人声重复这同一句话，十分魔性。  
 不过一个既没有主体民族，也不是靠主流信仰组成的国家，想构建凝聚力可能确实也只能用这种方法了。  
-而不像我国作为一个有明确主体民族的国家，讲历史只需要"祖先怎样怎样"。
+（不像中国作为一个有明确主体民族的国家，讲历史只需要"祖先怎样怎样"）
 
 我觉得这个展厅至少有一点值得称道的地方，坦陈对各种群体的不公正对待。
 
@@ -165,7 +170,8 @@
 - 我们中有些人是世代生活在这里（原住民）  
 - 我们中有些人是自愿过来的（早期殖民者和后续移民）  
 - 我们中有些人是被强行带来的（奴隶制）  
-- 我们中有些人是生活的土地被纳入了美国版图（对外扩张）  
+- 我们中有些人是生活的土地被纳入了美国版图（对外扩张）
+
 ![1](https://thumbnails-photos.amazon.com/v1/thumbnail/t39udy9FTdy_qwJxbFZ2VA?viewBox=3042%2C2020&ownerId=A199H2MSIUK7DB&groupShareToken=pWPOuOORSkm5FNWDrduCLg.KTDNl88zG-ipBOY_ZO9bNm)  
 
 不同文化移民带来的随身物品，其意是为了凸显Out of Many  
@@ -185,7 +191,7 @@
 在集中营中需要佩戴的标识牌。（左）  
 ![1](https://thumbnails-photos.amazon.com/v1/thumbnail/CRZ4fEhyTRiSf-pcpjQFAQ?viewBox=2682%2C2020&ownerId=A199H2MSIUK7DB&groupShareToken=pWPOuOORSkm5FNWDrduCLg.KTDNl88zG-ipBOY_ZO9bNm)
 
-关于墨西哥移民的部分（称为移民可能就不大合适了，人根本没移）。  
+关于墨西哥移民的部分（称为移民可能就不大合适了，人根本就是待在原地没动）。  
 美墨战争后，加州和德州被并入美国。世代生活在这片土地上的墨西哥人，却变成了二等公民。  
 图为墨西哥骑兵的胸甲。  
 ![1](https://thumbnails-photos.amazon.com/v1/thumbnail/NUhRbMQ8RtSK-Hh1_pgo_g?viewBox=1520%2C2020&ownerId=A199H2MSIUK7DB&groupShareToken=pWPOuOORSkm5FNWDrduCLg.KTDNl88zG-ipBOY_ZO9bNm)  
@@ -208,7 +214,7 @@
 ![1](https://thumbnails-photos.amazon.com/v1/thumbnail/nDeEjitSSaKavVWWbjT8Cw?viewBox=730%2C970&ownerId=A199H2MSIUK7DB&groupShareToken=pWPOuOORSkm5FNWDrduCLg.KTDNl88zG-ipBOY_ZO9bNm)  
 
 北方政府召集有色人种入伍的宣传  
-![1](images/38.jpeg)
+![1](https://thumbnails-photos.amazon.com/v1/thumbnail/2Gtj1Hc6TTyAbss2MYQJqg?viewBox=730%2C970&ownerId=A199H2MSIUK7DB&groupShareToken=pWPOuOORSkm5FNWDrduCLg.KTDNl88zG-ipBOY_ZO9bNm)
 
 #### 一战
 内容很少，几乎只有这么一个展柜。  
@@ -222,11 +228,11 @@
 ![1](https://thumbnails-photos.amazon.com/v1/thumbnail/mtKWJzKAQsWumJe2_g_Bmg?viewBox=730%2C970&ownerId=A199H2MSIUK7DB&groupShareToken=pWPOuOORSkm5FNWDrduCLg.KTDNl88zG-ipBOY_ZO9bNm)
 
 二战时的宣传海报。  
-大概画风就是打鸡血，以及鼓励人们节俭，好把物资供应前线。  
+大致画风就是打鸡血，以及鼓励人们勤俭节约，好把物资供应前线。  
 ![1](https://thumbnails-photos.amazon.com/v1/thumbnail/vzJSlvpOQ3qzImHu3MTArA?viewBox=1280%2C964&ownerId=A199H2MSIUK7DB&groupShareToken=pWPOuOORSkm5FNWDrduCLg.KTDNl88zG-ipBOY_ZO9bNm)  
 ![1](https://thumbnails-photos.amazon.com/v1/thumbnail/Xq12gystRBO-DpxmFW5kIA?viewBox=1280%2C964&ownerId=A199H2MSIUK7DB&groupShareToken=pWPOuOORSkm5FNWDrduCLg.KTDNl88zG-ipBOY_ZO9bNm)  
 
-"妇女能顶半边天"以及"民主阵营的兵工厂"。  
+"妇女力量"以及"民主阵营的兵工厂"。  
 ![1](https://thumbnails-photos.amazon.com/v1/thumbnail/k7wguaETQzW4btiRjFGc5w?viewBox=1280%2C964&ownerId=A199H2MSIUK7DB&groupShareToken=pWPOuOORSkm5FNWDrduCLg.KTDNl88zG-ipBOY_ZO9bNm)
 
 诺曼底登陆  
@@ -238,6 +244,7 @@
 #### 朝鲜战争
 内容不多，值得一拍的几乎只有这张实控线变化图。  
 有趣的是这里说的主要对抗双方为联合国军队（UN）和北朝鲜军队（N. Korean troops），只有少量地方会提到U.S.和China。
+
 ![1](https://thumbnails-photos.amazon.com/v1/thumbnail/FqX6xCwASK2VDNI7dpwlrA?viewBox=730%2C970&ownerId=A199H2MSIUK7DB&groupShareToken=pWPOuOORSkm5FNWDrduCLg.KTDNl88zG-ipBOY_ZO9bNm)
 
 #### 冷战时期
@@ -265,8 +272,8 @@
 ![1](https://thumbnails-photos.amazon.com/v1/thumbnail/BAXJKUc8SfeD9jRMGFkpMA?viewBox=730%2C970&ownerId=A199H2MSIUK7DB&groupShareToken=pWPOuOORSkm5FNWDrduCLg.KTDNl88zG-ipBOY_ZO9bNm)  
 
 各种以总统命名的道路。  
-说实话这么多重复的地名真的会造成很高的沟通成本...尤其是华盛顿这个名字，简直遍布全美。  
-![1](https://thumbnails-photos.amazon.com/v1/thumbnail/BAXJKUc8SfeD9jRMGFkpMA?viewBox=730%2C970&ownerId=A199H2MSIUK7DB&groupShareToken=pWPOuOORSkm5FNWDrduCLg.KTDNl88zG-ipBOY_ZO9bNm) 
+说实话这么多重复的地名真的很麻烦...尤其是华盛顿这个名字，简直遍布全美。  
+![1](https://thumbnails-photos.amazon.com/v1/thumbnail/wRc_3jQARCi_g9qt9qtuuw?ownerId=A199H2MSIUK7DB&viewBox=280&groupShareToken=pWPOuOORSkm5FNWDrduCLg.KTDNl88zG-ipBOY_ZO9bNm) 
 
 历任美国总统。岂不是...每过几年都要更新一下加长一点点。  
 ![1](https://thumbnails-photos.amazon.com/v1/thumbnail/XwF8C1IWTxi8ZVpXvKbVpw?viewBox=1280%2C964&ownerId=A199H2MSIUK7DB&groupShareToken=pWPOuOORSkm5FNWDrduCLg.KTDNl88zG-ipBOY_ZO9bNm) 
@@ -282,7 +289,7 @@
 ![1](https://thumbnails-photos.amazon.com/v1/thumbnail/dPCdNWn9So2CJuguDd8RiA?viewBox=1280%2C964&ownerId=A199H2MSIUK7DB&groupShareToken=pWPOuOORSkm5FNWDrduCLg.KTDNl88zG-ipBOY_ZO9bNm)  
 
 这个区域说实话...大部分东西都看不懂，少量有些微印象，只有极个别的内容，比如漫威，《星球大战》这些，才算是比较熟悉。  
-这可能真的是文化上的隔阂吧，像《芝麻街》《辛普森一家》这些美国人从小看到大的东西，我看了就完全无感。  
+这种文化上的隔阂，真的不太好办。像《芝麻街》《辛普森一家》这些美国人从小看到大的东西，我看了就完全无感。  
 《星球大战》里经久不衰的两个机器人。另外在航空航天博物馆的天花板上甚至都吊着一个1:1的星球大战里战斗机的模型，美国佬是真的喜欢这个IP。    
 ![1](https://thumbnails-photos.amazon.com/v1/thumbnail/ZYDzIwfpSzK3H9KYF-NZzg?viewBox=1280%2C964&ownerId=A199H2MSIUK7DB&groupShareToken=pWPOuOORSkm5FNWDrduCLg.KTDNl88zG-ipBOY_ZO9bNm)
 
@@ -290,7 +297,7 @@
 ![1](https://thumbnails-photos.amazon.com/v1/thumbnail/j6xyP-ndQqKCMdz7LRURxQ?viewBox=730%2C970&ownerId=A199H2MSIUK7DB&groupShareToken=pWPOuOORSkm5FNWDrduCLg.KTDNl88zG-ipBOY_ZO9bNm)   
 
 ## 其他
-还有别的区域，比如讲车船这种交通工具的发展的，可是实在缺少记忆点。
+还有别的区域，比如讲车船等交通工具的发展的，房屋的发展的，可是实在缺少记忆点。只大概拍了几张照，就不往这里放了。想看的话在文末的链接里。
 
 ## 附录
 更多图片：https://www.amazon.com/photos/shared/pWPOuOORSkm5FNWDrduCLg.KTDNl88zG-ipBOY_ZO9bNm

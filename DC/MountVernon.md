@@ -78,7 +78,7 @@
 名字大约应该翻译成国家港，但并看不出有多国家，应该只能算是一个蹭首都热度的人造小旅游景区。  
 不过这里的布置还挺有意思的，很有...懂王的味道。  
 
-从高速上下来到港口时，就会先看到一面巨大的国旗，加上大大的U S A，特地拍下停车场里的汽车作为参照物。  
+从高速上下来到港口时，就会先看到一面巨大的国旗，加上大大的U S A，附带停车场里的汽车作为参照物。  
 ![1](https://thumbnails-photos.amazon.com/v1/thumbnail/LRDnHDGcRIeyoxShGDwkow?viewBox=1280%2C964&ownerId=A199H2MSIUK7DB&groupShareToken=nY6diR7kTPyeyeGAHaHZsQ.wIZrSPbqQWE1Z57mUsFf8M)
 
 港口正中心的主干道，是美国路（American Way），路的起点是军人雕塑。  
@@ -103,6 +103,9 @@
 最后是二十世纪五六十年代娱乐形象的代表，爵士乐手阿姆斯特朗，和玛丽莲梦露。  
 ![1](https://thumbnails-photos.amazon.com/v1/thumbnail/gnlEHpdnRMeYbiKlGrDPdA?viewBox=730%2C970&ownerId=A199H2MSIUK7DB&groupShareToken=nY6diR7kTPyeyeGAHaHZsQ.wIZrSPbqQWE1Z57mUsFf8M)  
 ![1](https://thumbnails-photos.amazon.com/v1/thumbnail/C0fEP6OWRWGmAFHyUKDHzQ?viewBox=730%2C970&ownerId=A199H2MSIUK7DB&groupShareToken=nY6diR7kTPyeyeGAHaHZsQ.wIZrSPbqQWE1Z57mUsFf8M)
+
+港口上还有一个摩天轮。我觉得Capital Wheel可以翻译成"首都之眼"或者"资本之眼"，个人更倾向于后者！  
+![1](https://thumbnails-photos.amazon.com/v1/thumbnail/ANjnzQSyTs6kdkODzLzodw?viewBox=730%2C970&ownerId=A199H2MSIUK7DB&groupShareToken=nY6diR7kTPyeyeGAHaHZsQ.wIZrSPbqQWE1Z57mUsFf8M)
 
 ## 附录
 更多图片：https://www.amazon.com/photos/shared/nY6diR7kTPyeyeGAHaHZsQ.wIZrSPbqQWE1Z57mUsFf8M?pageIndex=0

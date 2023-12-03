@@ -9,7 +9,9 @@
 ## 游客中心
 安检过后的第一站是游客中心。  
 整个国会山内部能让游客自由活动的范围也基本只有游客中心了，剩下的所有参观都需要跟着讲解员。  
-国会山里放着好多来自各州的名人的雕塑，游客中心里就放着好些。但没找到太明显的规律（不像接后面的部分）  
+国会山里放着好多来自各州的名人的雕塑，游客中心里就有许多。但没找到太明显的规律（不像后面的部分）  
+
+几个比较有辨识度的：  
 
 夏威夷的第一任国王  
 ![https://www.amazon.com/photos/shared/hsX-1IB_TC2ZyJKVO2ImFw.smARpuB9YZciiO0cC0pmqy/gallery/gXnOrj30RWqm7SPJ_V3wmg](https://thumbnails-photos.amazon.com/v1/thumbnail/gXnOrj30RWqm7SPJ_V3wmg?viewBox=730%2C970&ownerId=A199H2MSIUK7DB&groupShareToken=hsX-1IB_TC2ZyJKVO2ImFw.smARpuB9YZciiO0cC0pmqy)
@@ -20,13 +22,15 @@
 怀俄明的印第安酋长  
 ![https://www.amazon.com/photos/shared/hsX-1IB_TC2ZyJKVO2ImFw.smARpuB9YZciiO0cC0pmqy/gallery/gXnOrj30RWqm7SPJ_V3wmg](https://thumbnails-photos.amazon.com/v1/thumbnail/Juj3AX8OT4uwfDcQpgTp8g?viewBox=1854%2C2464&ownerId=A199H2MSIUK7DB&groupShareToken=hsX-1IB_TC2ZyJKVO2ImFw.smARpuB9YZciiO0cC0pmqy)
 
-整个流程的第一步是看个十几分钟的（大内宣）影片，其中反复出现"Out of Many, One"这句话。  
+整个参观流程的第一步是看个十几分钟的（大内宣）影片，其中反复出现"Out of Many, One"这句话。  
 其大意就是说各州联合起来，建立了这个统一的国家，"合众为一"。[维基百科](https://en.wikipedia.org/wiki/E_pluribus_unum)  
 > The meaning of the phrase originated from the concept that out of the union of the original 
 > Thirteen Colonies emerged a new single nation. 
 > It is emblazoned across the scroll and clenched in the eagle's beak on the Great Seal 
 > of the United States.
 
+除此之外影片就是讲讲这国会是民主的重要体现啦，议会历史上通过了哪些著名法案啦，之类。  
+作为外国人听着还算新鲜，不知道本国人有没有偷偷翻白眼。
 ## 墓穴
 没错...第一站是在地下，称为墓穴（crypt）的部分。  
 
@@ -40,7 +44,7 @@
 
 ## 中央大厅
 接下来一站，就是国会山上镜频率最高的中央大厅了。  
-如果觉得这张照片眼熟的话，一定是因为[2021年的新闻里见过](https://m.thepaper.cn/wifiKey_detail.jsp?contid=10726960&from=wifiKey#)  
+如果觉得这个场景眼熟的话，一定是因为[2021年的新闻里见过](https://m.thepaper.cn/wifiKey_detail.jsp?contid=10726960&from=wifiKey#)  
 ![https://www.amazon.com/photos/shared/hQZLJigfTeO7oCQxtqTzcQ.qaPagee-vp1Z_TinTcdabX/gallery/7cjSGbj5QBOVEsbpkudX7A](https://thumbnails-photos.amazon.com/v1/thumbnail/7cjSGbj5QBOVEsbpkudX7A?viewBox=1280%2C964&ownerId=A199H2MSIUK7DB&groupShareToken=hQZLJigfTeO7oCQxtqTzcQ.qaPagee-vp1Z_TinTcdabX)
 
 大厅中的一圈雕像，几乎都是知名的总统 - 华盛顿、林肯、里根、艾森豪威尔等等。  
@@ -77,7 +81,7 @@
 
 这幅画下面的盾牌，与美国队长最一开始的盾牌十分接近！  
 ![https://www.amazon.com/photos/shared/5CfugIkjR8eFicUhqNe2kA.Lbkmg7ltjXxZOQ5UcTqvTN/gallery/rexXTdFHRuSoc4lvUztWGw](https://thumbnails-photos.amazon.com/v1/thumbnail/rexXTdFHRuSoc4lvUztWGw?ownerId=A199H2MSIUK7DB&viewBox=448%2C633&groupShareToken=5CfugIkjR8eFicUhqNe2kA.Lbkmg7ltjXxZOQ5UcTqvTN)  
-这与[美国历史博物馆最后的那块美国队长盾牌](https://github.com/Handwarmer/note/blob/main/DC/AmericanHistoryMuseum/AmericanHistoryMuseum.md#%E6%B5%81%E8%A1%8C%E6%96%87%E5%8C%96) 遥相呼应。  
+这与[美国历史博物馆最后的那块美国队长盾牌](https://github.com/Handwarmer/note/blob/master/DC/AmericanHistoryMuseum.md#%E7%BE%8E%E5%9B%BD%E6%96%87%E5%8C%96) 遥相呼应。  
 果然这块盾牌是美国历史的暗线！（开玩笑的）
 
 ## 雕像厅
@@ -88,6 +92,7 @@
 为什么不是50-13=37个州呢？似乎是缺了最晚加入的阿拉斯加和夏威夷。  
 整个国会山里的全部雕像：https://www.aoc.gov/explore-capitol-campus/art/statuary-hall-collection-by-location
 
+既然是从华盛顿州来华盛顿DC旅游，还是要找找代表华盛顿州的雕像。  
 代表华盛顿州的Marcus Whitman（完全不认识）  
 ![https://www.amazon.com/photos/shared/dxG0EA3nQwyQWmVLmENLzg.UKjOG6H7PSwNx1fAJf0z9f/gallery/YN4yCpiNQ1KY-yQ5DJcFKw](https://thumbnails-photos.amazon.com/v1/thumbnail/o-cFmp5yQmGfadSPg1-yNw?viewBox=730%2C970&ownerId=A199H2MSIUK7DB&groupShareToken=dxG0EA3nQwyQWmVLmENLzg.UKjOG6H7PSwNx1fAJf0z9f)
 
@@ -101,7 +106,7 @@
 （我觉得这是最有意思的部分，让我们来看看美国人是怎么个全过程民主法！）  
 整个跟着讲解员的参观过程就到此为止了。紧接着人群中就有人问：那我们可以去参议院或者众议院看他们开会吗？  
 讲解员表示  
->可以，作为平民的话，你需要对应的通行证，才能去参议院或者众议院。  
+>可以，但你需要对应的通行证，才能去参议院或者众议院。  
 通行证需要联系自己所在地区对应的参/众议院议员，拿到的通行证就可以用到议会换届为止。  
 不过你看今天这下着雨，出门走去议员办公室要通行证也挺麻烦的，可以试试给办公室打电话，让他们派个实习生给送过来。  
 毕竟嘛...他们是要巴结你要选票的！
@@ -110,7 +115,7 @@
 看到美国国会也这么区别对待，让我与之前"持外国护照能进，而中国护照不能进（没有身份证的情况下）"的南京博物院，也稍稍和解了一些。（迟早要另写一篇好好吐槽）  
 
 总之，游客中心只看了一眼我们的护照封皮，甚至都没翻开，就爽快的给了通行证。  
-不过从通行证上写的内容来看，起码参议院（黄色的）通行证是有区分是否本国人的，毕竟我们拿到的上面写着International Guest。  
+不过看起来起码参议院（黄色的）通行证是有区分是否本国人的，毕竟我们拿到的上面写着International Guest，即国际游客。  
 ![https://www.amazon.com/photos/shared/dxG0EA3nQwyQWmVLmENLzg.UKjOG6H7PSwNx1fAJf0z9f/gallery/YN4yCpiNQ1KY-yQ5DJcFKw](https://thumbnails-photos.amazon.com/v1/thumbnail/YN4yCpiNQ1KY-yQ5DJcFKw?viewBox=730%2C970&ownerId=A199H2MSIUK7DB&groupShareToken=dxG0EA3nQwyQWmVLmENLzg.UKjOG6H7PSwNx1fAJf0z9f) 
 
 进入两院参观要再过一遍安检，这次连电子设备都不能带进去，也就无从拍照了，只能找网上的照片替代一下。
@@ -123,19 +128,20 @@
 从话语中听来，她似乎就是那个"议员办公室来送通行证的实习生"，居然还顺带提供导游服务。  
 
 在众议院坐着的时候，居然还真的赶上要开会。  
-可惜并不是那个争议缠身的议长Mike Johnson出来主持，只是请了一个众议员来代理议长，念个一句话的通知"休会直到周五"（然后周五又通知休会到下周二...看了看到周二总算是真的开会了。是真的能摸鱼）  
+可惜并不是那个争议缠身的新任共和党议长Mike Johnson（反堕胎，反同性恋，保守基督教徒）出来主持，只是请了一个众议员来代理议长，念个一句话的通知"休会直到周五"（然后周五又通知休会到下周二...看了看到周二总算是真的开会了。是真的能摸鱼）  
 不过后来看了看其他日子的会议流程，似乎请议员来轮流坐庄代理议长是常态，议长本身也不太主持。然后基本上哪个党的议长也只会找自己党的议员来。怪不得两党要就这个议长位置争个头破血流。  
 尽管就是念个通知，也是要走流程的，先来段祷告，再对国旗宣誓效忠。  
-祷告部分还好，到了宣誓效忠居然观众席上的平民全都哗啦啦站了起来跟着背誓词。我也跟着站了起来，但背是肯定不会的，那一瞬间真有点怕被当作细作抓出来。  
+祷告部分还好，到了宣誓效忠环节，居然观众席上的人也全都哗啦啦站了起来一起背誓词。我也跟着站了起来，但背是肯定不会的，那一瞬间真有点怕被当作细作抓出来。  
 后来查了查，誓词应该是这一段：  
 > I pledge allegiance to the flag of the United States of America, and to the republic for which it stands, one nation under God, indivisible, with liberty and justice for all.
+> 我谨宣誓效忠美利坚合众国国旗及效忠所代表之共和国，上帝之下的国度，不可分裂，自由平等全民皆享。
 
 当时在现场看到的内容一如这里的录像（大约从4分钟处开始）：https://live.house.gov/?date=2023-11-21  
 唯一区别是现场实际的收听效果很糟糕，不太听得清台上的人在说什么。
 
 参议院看上去也差不多，只是座位少些，每个人都有了桌子。毕竟比起众议院的435人，参议院只有100人，但会议厅大小和结构都差不多。
 
-总得看下来我觉得，哪怕只是做做样子，美国国会的会议对平民开放这点还是很不错的，尤其是居然放外国人进来的条件如此宽松（宣扬美式民主的阴谋！）。  
+总得看下来我觉得，哪怕只是做做样子，美国国会的会议对平民开放这点还是很不错的，尤其是居然放外国人进来的条件是如此之宽松（警惕美帝国主义的糖衣炮弹！）。  
 也许是因为我们去的那天只是走流程而非实质性的会议吧。  
 虽然实际上的决策多半是靠台下的媾和（打建国起就如此），但起码它愿意摆出这样开放的姿态。
 

@@ -64,7 +64,7 @@
 
 下面的小喷泉边上写着 ([来源](https://www.nps.gov/wwii/learn/historyculture/memorial-quotations.htm))
 - 非洲北部 &emsp;  欧洲南部 &emsp;  欧洲西部 &emsp;  欧洲中部
-- 大西洋战役 * 摩尔曼斯克航线 * 突尼斯 * 西西里 * 萨莱诺 安齐奥 罗马 波河河谷 * 诺曼底 * 圣洛 * 欧洲空战 * 阿尔萨斯 * 莱茵兰 * 许特根森林 * 阿登战役 * 雷玛根大桥 * 德国 GERMANY
+- 大西洋战役 * 摩尔曼斯克航线 * 突尼斯 * 西西里 * 萨莱诺 安齐奥 罗马 波河河谷 * 诺曼底 * 圣洛 * 欧洲空战 * 阿尔萨斯 * 莱茵兰 * 许特根森林 * 阿登战役 * 雷玛根大桥 * 德国
 
 园子尽头是一面墙，墙上有4048颗星星，每颗星星代表100名阵亡士兵。
 ![https://www.amazon.com/photos/shared/xrxC5v6DR8quwOToxOOe5g.A4-VS-ORU5STfXCbazrxtH/gallery/mVskWqufTiyUudUdv7XGSQ](https://thumbnails-photos.amazon.com/v1/thumbnail/mVskWqufTiyUudUdv7XGSQ?viewBox=1280%2C964&ownerId=A199H2MSIUK7DB&groupShareToken=xrxC5v6DR8quwOToxOOe5g.A4-VS-ORU5STfXCbazrxtH)
@@ -72,7 +72,7 @@
 ## 各总统纪念园
 
 ### 林肯纪念堂
-又一个电影常客！
+又一个电影常客！  
 ![1](https://thumbnails-photos.amazon.com/v1/thumbnail/jIY919WnSGWtP8pZDfl2qw?viewBox=728%2C970&ownerId=A199H2MSIUK7DB&groupShareToken=D5BsvrlFTXOFETpAEc4z5A.DJAwCB6QXnPyhW0rAbGxct)
 
 ### 小罗斯福纪念堂
@@ -112,10 +112,10 @@
 白宫周围的警察居然算是United States Secret Service这种总统安保部门的...  
 ![https://www.amazon.com/photos/shared/QGePuqEQTAe_TEydWrcTIw.N1RCGD5JBx0NYzuExNBkaq/gallery/H67J1XqbSXqDYZ1rmuBXgg](https://thumbnails-photos.amazon.com/v1/thumbnail/D-oloXB1Qx653wAL6-dI0A?viewBox=1279%2C963&ownerId=A199H2MSIUK7DB&groupShareToken=QGePuqEQTAe_TEydWrcTIw.N1RCGD5JBx0NYzuExNBkaq)
 
-车牌上的END TAXATION WITHOUT REPRESENTATION，详见[这里](https://github.com/Handwarmer/note/blob/main/DC/AmericanHistoryMuseum/AmericanHistoryMuseum.md#%E6%8A%95%E7%A5%A8)  
+车牌上的END TAXATION WITHOUT REPRESENTATION，详见[这里](https://github.com/Handwarmer/note/blob/master/DC/AmericanHistoryMuseum.md#%E6%8A%95%E7%A5%A8)  
 ![https://www.amazon.com/photos/shared/QGePuqEQTAe_TEydWrcTIw.N1RCGD5JBx0NYzuExNBkaq/gallery/npv6zdTzSxywjxq4jrPTuA](https://thumbnails-photos.amazon.com/v1/thumbnail/npv6zdTzSxywjxq4jrPTuA?viewBox=1279%2C963&ownerId=A199H2MSIUK7DB&groupShareToken=QGePuqEQTAe_TEydWrcTIw.N1RCGD5JBx0NYzuExNBkaq)
 
-路边一角呼吁巴以停火的贴纸，前两天挺巴和挺以派刚轮番游行过。  
+路边一角呼吁巴以停火的贴纸，前两天挺巴和挺以派刚轮番在DC游行过。  
 ![https://www.amazon.com/photos/shared/QGePuqEQTAe_TEydWrcTIw.N1RCGD5JBx0NYzuExNBkaq/gallery/npv6zdTzSxywjxq4jrPTuA](https://thumbnails-photos.amazon.com/v1/thumbnail/MGmbY63DQCSzDHJVgoO12Q?viewBox=730%2C970&ownerId=A199H2MSIUK7DB&groupShareToken=QGePuqEQTAe_TEydWrcTIw.N1RCGD5JBx0NYzuExNBkaq)
 
 最后...超市里居然可以用支付宝结账！好像还真是第一次在美国见到  
